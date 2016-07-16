@@ -3,6 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>LOGIN MD BLOG</title>
+	<link rel='stylesheet' src="main.css">
 
 
 </head>
